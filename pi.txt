@@ -1,2 +1,1 @@
-https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_1564605030
-https://imasdk.googleapis.com/js/core/bridge3.609.1_en.html#goog_806099871
+imasdk.googleapis.com
